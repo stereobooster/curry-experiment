@@ -1,6 +1,6 @@
-# Code for blogpost
+# Currying reimagined
 
-This is just an experiment for fun - don't use in production.
+[Code for blogpost](https://stereobooster.com/posts/currying-reinvented/). This is just an experiment for fun - don't it use in production.
 
 ```js
 const abc = ({ a, b, c }) => [a, b, c];
