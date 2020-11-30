@@ -1,0 +1,11 @@
+{
+  "name": "curry-experiment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "stereobooster <stereobooster@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "js-function-reflector": "https://github.com/plygrynd-jynkyrd/js-function-reflector.git"
+  },
+  "type": "module"
+}
